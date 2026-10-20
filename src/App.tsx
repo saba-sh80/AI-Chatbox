@@ -3,7 +3,7 @@ import Sidebar from "./components/Sidebar";
 
 function App() {
   return (
-    <div className="h-dvh flex">
+    <div className="h-dvh flex font-serif">
       <Sidebar/>
       <MainPage />
     </div>
