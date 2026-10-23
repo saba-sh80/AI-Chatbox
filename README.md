@@ -1,116 +1,123 @@
 🤖 AI Chatbot
 
-یک رابط چت هوش مصنوعی مدرن و شیک، با الهام از ChatGPT، Gemini و DeepSeek.
+A modern and sleek AI chat interface, inspired by ChatGPT, Gemini, and DeepSeek.
 
-
-«⚠️ وضعیت پروژه: در حال حاضر پروژه در مرحله طراحی و توسعه رابط کاربری (UI) قرار دارد.
-اتصال به هوش مصنوعی در مراحل بعدی اضافه خواهد شد.»
-
----
-
-📑 فهرست مطالب
-
-- ✨ ویژگی‌ها
-- 🛠️ تکنولوژی‌های استفاده‌شده
-- 🚀 شروع به کار
-- 🤝 مشارکت
-- 👤 سازنده
+«⚠️ Project Status: The project is currently in the UI design and development phase.
+AI integration will be added in subsequent phases.»
 
 ---
 
-✨ ویژگی‌ها
+📑 Table of Contents
 
-- 🎨 رابط کاربری مدرن و تمیز
-- 💬 حباب‌های چت با تفکیک کاربر و دستیار
-- 🌙 پشتیبانی از حالت تاریک
-- ⚡ سرعت بالا با Vite
-- 📱 طراحی کاملاً واکنش‌گرا (Responsive)
-- 🧩 معماری مبتنی بر کامپوننت
-- 🎯 تایپ‌سیف با TypeScript
-- 🎨 استایل‌دهی با Tailwind CSS v4
+· ✨ Features
+· 🛠️ Technologies Used
+· 🚀 Getting Started
+· 🤝 Contributing
+· 👤 Author
 
 ---
 
-🛠️ تکنولوژی‌های استفاده‌شده
+✨ Features
 
-- ⚛️ React
-- 🔷 TypeScript
-- 🎨 Tailwind CSS v4
-- ⚡ Vite
+· 🎨 Modern and clean UI
+· 💬 Chat bubbles with user/assistant separation
+· 🌙 Dark mode support
+· ⚡ High speed with Vite
+· 📱 Fully responsive design
+· 🧩 Component-based architecture
+· 🎯 Type-safe with TypeScript
+· 🎨 Styling with Tailwind CSS v4
 
 ---
 
-🚀 شروع به کار
+🛠️ Technologies Used
 
-📋 پیش‌نیازها
+· ⚛️ React
+· 🔷 TypeScript
+· 🎨 Tailwind CSS v4
+· ⚡ Vite
 
-قبل از اجرای پروژه، مطمئن شوید موارد زیر روی سیستم شما نصب شده‌اند:
+---
 
-- Node.js نسخه 18 یا بالاتر
-- npm یا yarn یا pnpm
+🚀 Getting Started
 
-📥 نصب
+📋 Prerequisites
 
-ابتدا مخزن را Clone کنید:
+Before running the project, make sure the following are installed on your system:
+
+· Node.js version 18 or higher
+· npm or yarn or pnpm
+
+📥 Installation
+
+First, clone the repository:
 
 ```
 git clone https://github.com/your-username/AI-Chatbot.git
 ```
-سپس وارد پوشه پروژه شوید:
+
+Then navigate into the project folder:
+
 ```
 cd AI-Chatbot
 ```
-وابستگی‌های پروژه را نصب کنید:
+
+Install the project dependencies:
+
 ```
 npm install
 ```
-پروژه را در حالت Development اجرا کنید:
+
+Run the project in Development mode:
+
 ```
 npm run dev
 ```
-پس از اجرا، اپلیکیشن در آدرس زیر در دسترس خواهد بود:
+
+After running, the application will be available at:
+
 ```
 http://localhost:5173
 ```
 
 ---
 
-🤝 مشارکت
+🤝 Contributing
 
-از مشارکت، گزارش باگ و پیشنهاد ویژگی‌های جدید استقبال می‌کنیم! ❤️
+We welcome contributions, bug reports, and suggestions for new features! ❤️
 
-برای مشارکت در پروژه:
+To contribute to the project:
 
-1. پروژه را Fork کنید.
+1. Fork the project.
+2. Create a new Branch:
 
-2. یک Branch جدید ایجاد کنید:
 ```
 git checkout -b feature/AmazingFeature
 ```
 
-3. تغییرات خود را Commit کنید:
+3. Commit your changes:
+
 ```
 git commit -m "Add some AmazingFeature"
 ```
 
-4. Branch را Push کنید:
+4. Push the Branch:
+
 ```
 git push origin feature/AmazingFeature
 ```
 
-5. یک Pull Request ایجاد کنید.
-
+5. Create a Pull Request.
 
 ---
 
-<div align="center">⭐ اگر از این پروژه خوشتان آمد، خوشحال می‌شوم با دادن از پروژه حمایت کنی
+<div align="center">⭐ If you liked this project, I'd be happy if you support it by giving a star
 
-ساخته شده با 💜🩵💚
-
+Made with 💜🩵💚
 
 </div>
 
 ---
 
-👤 سازنده
+👤 Author
 Saba Shirazi
