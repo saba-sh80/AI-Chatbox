@@ -45,8 +45,8 @@ AI integration will be added in subsequent phases.»
 
 Before running the project, make sure the following are installed on your system:
 
-. Node.js version 18 or higher
-. npm or yarn or pnpm
+1. Node.js version 18 or higher
+2. npm or yarn or pnpm
 
 📥 Installation
 
