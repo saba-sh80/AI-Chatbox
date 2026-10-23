@@ -9,33 +9,33 @@ AI integration will be added in subsequent phases.»
 
 📑 Table of Contents:
 
-. ✨ Features
-. 🛠️ Technologies Used
-. 🚀 Getting Started
-. 🤝 Contributing
+1. ✨ Features
+2. 🛠️ Technologies Used
+3. 🚀 Getting Started
+4. 🤝 Contributing
 5· 👤 Author
 
 ---
 
 ✨ Features:
 
-. 🎨 Modern and clean UI
-. 💬 Chat bubbles with user/assistant separation
-. 🌙 Dark mode support
-. ⚡ High speed with Vite
-. 📱 Fully responsive design
-. 🧩 Component-based architecture
-. 🎯 Type-safe with TypeScript
-. 🎨 Styling with Tailwind CSS v4
+1. 🎨 Modern and clean UI
+2. 💬 Chat bubbles with user/assistant separation
+3. 🌙 Dark mode support
+4. ⚡ High speed with Vite
+5. 📱 Fully responsive design
+6. 🧩 Component-based architecture
+7. 🎯 Type-safe with TypeScript
+8. 🎨 Styling with Tailwind CSS v4
 
 ---
 
 🛠️ Technologies Used:
 
-. ⚛️ React
-. 🔷 TypeScript
-. 🎨 Tailwind CSS v4
-. ⚡ Vite
+1. ⚛️ React
+2. 🔷 TypeScript
+3. 🎨 Tailwind CSS v4
+4. ⚡ Vite
 
 ---
 
