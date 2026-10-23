@@ -7,7 +7,7 @@ AI integration will be added in subsequent phases.»
 
 ---
 
-📑 Table of Contents
+📑 Table of Contents:
 
 · ✨ Features
 · 🛠️ Technologies Used
@@ -17,7 +17,7 @@ AI integration will be added in subsequent phases.»
 
 ---
 
-✨ Features
+✨ Features:
 
 · 🎨 Modern and clean UI
 · 💬 Chat bubbles with user/assistant separation
@@ -30,7 +30,7 @@ AI integration will be added in subsequent phases.»
 
 ---
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 · ⚛️ React
 · 🔷 TypeScript
