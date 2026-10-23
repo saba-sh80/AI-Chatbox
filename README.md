@@ -113,7 +113,7 @@ git push origin feature/AmazingFeature
 
 <div align="center">⭐ If you liked this project, I'd be happy if you support it by giving a star
 
-Made with 💜🩵💚
+Made with 💙
 
 </div>
 
